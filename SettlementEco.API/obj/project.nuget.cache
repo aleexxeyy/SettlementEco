@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/vsX7A62Rw=",
+  "success": true,
+  "projectFilePath": "D:\\Works\\Projects\\SettlementEco\\SettlementEco.API\\SettlementEco.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cron\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Cron\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cron\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
